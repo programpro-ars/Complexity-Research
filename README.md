@@ -1,5 +1,7 @@
 # Complexity-Research
 
+![figure from paper](https://i.ibb.co/CtzkVJS/Frame-1.png)
+
 #### ["Strong computational complexity estimates for selected Boolean functions and De-Morgan formulas"](paper.pdf)
 
 
